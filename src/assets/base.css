@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  place-items: center;
+  background-color: rgb(22, 20, 20);
+  color: lightgrey;
+}
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: 200;
+}
+input,
+select {
+  display: block;
+  margin: 10px;
+}
+button {
+  margin: 10px;
+  padding: 10px;
+  color: rgb(22, 20, 20);
+  font-size: 20px;
+}
